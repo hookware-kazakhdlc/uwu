@@ -20,6 +20,7 @@
   ],
  "functions": {
    "kyrgyzdlc.1.0b": {
+   "testCheckbox":         { "enabled": true,  "label": "a" }.
    "chams":                { "enabled": true,  "label": "Chams" },
    "shader":               { "enabled": true,  "label": "Shader" },
    "textures_fix":         { "enabled": true,  "label": "Textures Fix" },
