@@ -1,3 +1,26 @@
 {
- "v": false
+ "versions": [
+    {
+    "version": "kyrgyzdlc.1.0b",
+    "isOpen": true,
+    "isWatermarkOn": true,
+    "isWatermarkTimeOn": true,
+    "isAbortOn": false,
+    "notAllowedReason": "",
+    "cheatTitle": "KyrgyzDLC",
+    "cheatDesc": "STANDLEO 2.8 | KyrgyzDLC.t.me",
+    "watermarkTitle": "KyrgyzDLC | ",
+    "watermarkDescription": "KyrgyzDLC.t.me",
+    "miniWatermarkText": "KyrgyzDLC.t.me",
+    "configPath": [],
+    "miniWatermarkSize": 30,
+    "apiVersion": 0,
+    "abortTime": 5
+   }
+  ],
+ "functions": {
+   "kyrgyzdlc.1.0b": {
+   "A":       { "enabled": true,  "label": "abc" }
+   }
+}
 }
