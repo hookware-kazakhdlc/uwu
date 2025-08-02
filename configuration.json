@@ -12,7 +12,7 @@
     "watermarkTitle": "KyrgyzDLC | ",
     "watermarkDescription": "KyrgyzDLC.t.me",
     "miniWatermarkText": "KyrgyzDLC.t.me",
-    "configPath": [],
+    "configPath": "",
     "miniWatermarkSize": 30,
     "apiVersion": 0,
     "abortTime": 5
