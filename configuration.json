@@ -7,14 +7,15 @@
     "isWatermarkTimeOn": true,
     "isAbortOn": false,
     "notAllowedReason": "",
+    "cheatVersion": "beta",
     "cheatTitle": "kazakhdlc",
     "cheatDesc": "2.9f3",
     "watermarkTitle": "KyrgyzDLC | ",
     "watermarkDescription": "KyrgyzDLC.t.me",
     "miniWatermarkText": "KyrgyzDLC.t.me",
-    "configPath": "",
+    "apiVersion": "",
     "miniWatermarkSize": 30,
-    "apiVersion": 0,
+    "cheatStatus": 0,
     "abortTime": 5
    }
   ],
