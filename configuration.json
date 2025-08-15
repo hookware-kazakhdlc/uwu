@@ -2,7 +2,7 @@
  "versions": [
     {
     "version": "simple-paste",
-    "isOpen": true,
+    "isOpen": false,
     "isWatermarkOn": true,
     "isWatermarkTimeOn": true,
     "isAbortOn": false,
