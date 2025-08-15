@@ -1,7 +1,7 @@
 {
  "versions": [
     {
-    "version": "kyrgyzdlc.1.0b",
+    "version": "simple-paste",
     "isOpen": true,
     "isWatermarkOn": true,
     "isWatermarkTimeOn": true,
@@ -20,8 +20,7 @@
    }
   ],
  "functions": {
-   "kyrgyzdlc.1.0b": {
-   "testCheckbox":         { "enabled": true,  "label": "a" },
+   "simple-paste": {
    "chams":                { "enabled": true,  "label": "Chams" },
    "shader":               { "enabled": true,  "label": "Shader" },
    "textures_fix":         { "enabled": true,  "label": "Textures Fix" },
